@@ -21,3 +21,21 @@ tuberías y cableado.
 Asimismo, se desarrollaron nuevas funcionalidades para facilitar la interacción de los usuarios
 con el sistema y la transmisión de datos, tales como el diseño de un cuadro de mandos que permite
 el envío de información de la planta por red local.
+
+
+## Planta:
+![DiposicionArmario](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/575bd522-0c63-4030-8795-8f5c676d2afc)
+
+
+
+## Instalación:
+![EsquemaGeneraDibujoFinal](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/26f4c235-826b-4b52-a81f-23db0c87c825)
+
+
+
+## Panel de control:
+![panelDibujo](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/e402161d-03d6-467b-984d-768ea8c39a77)
+
+
+## Cuadro de mandos digital:
+![dashNormal](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/4bae9428-edc4-43d4-870d-e41be5c90660)
