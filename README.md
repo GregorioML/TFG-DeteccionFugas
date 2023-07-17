@@ -36,6 +36,23 @@ el envío de información de la planta por red local.
 ## Panel de control:
 ![panelDibujo](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/e402161d-03d6-467b-984d-768ea8c39a77)
 
+### Vídeo demostrativo:
+https://youtu.be/_ug7fD1kIpE
 
 ## Cuadro de mandos digital:
 ![dashNormal](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/4bae9428-edc4-43d4-870d-e41be5c90660)
+
+### Vídeo demostrativo de la presentación de datos:
+https://youtu.be/-DgY2gDmnpA
+
+### Vídeo demostrativo de la comunicación a través de MQTT:
+https://youtu.be/S3i0v7Nzqdk
+
+
+## Máquinas de estado:
+![estadosControladora](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/bfef3a6d-6858-41f9-8a99-2bc652d080b8)
+
+![estadosDeposito](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/c1219dc4-2879-4c0d-92ab-fed7068fa387)
+
+![Máquina de estados de Inicialización v1 5 (1)](https://github.com/GregorioML/TFG-DeteccionFugas/assets/122282447/ae351949-b114-4310-a454-69f3668d5eb5)
+
